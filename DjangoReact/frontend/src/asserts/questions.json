@@ -1,0 +1,34 @@
+{"questions" : [
+    {
+      "queID": 1,
+      "queText": "1.How satisfied are you with our products?",
+      "ratingType": 5,
+      "attemptedQue": "1/5"
+    },
+    {
+      "queID": 2,
+      "queText": "2. How fair are the prices compared to similar retailers?",
+      "ratingType": 5,
+      "attemptedQue": "2/5"
+    },
+    {
+      "queID": 3,
+      "queText":
+        "3. How satisfied are you with the value for money of your purchase?",
+        "ratingType": 5,
+        "attemptedQue": "3/5"
+    },
+    {
+      "queID": 4,
+      "queText":
+        "4. On a scale of 1-10 how would you recommend us to your friends and family?",
+        "ratingType": 10,
+        "attemptedQue": "4/5"
+    },
+    {
+      "queID": 5,
+      "queText": "5. What could we do to improve our service?",
+      "ratingType": "TextBox",
+      "attemptedQue": "5/5"
+    }
+  ]}
